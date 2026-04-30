@@ -10,9 +10,11 @@
   <a href="https://robottik.co.uk/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Robottik Software</a> GitHub
 </h5> 
 
+
 <div align="center">
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![License](https://img.shields.io/badge/license-GNU-blue.svg)](/LICENSE)
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-GNU-blue.svg)](/LICENSE)
 </div>
 
 ---
