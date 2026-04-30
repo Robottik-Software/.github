@@ -1,6 +1,6 @@
 <p  align="center">
   <a  href=""  rel="noopener">
-    <img width=200px  height=200px  src="https://robottik.com/resources/images/logos/company/White/main.png"  alt="Project logo">
+    <img width=200px  height=200px  src="https://robottik.com/resources/images/logos/Company/White/main.png"  alt="Project logo">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://robottik.com/resources/images/logos/company/Meta/main.png" alt="Robottik Meta" width="800px">
+  <img src="https://robottik.com/resources/images/logos/Company/Meta/main.png" alt="Robottik Meta" width="800px">
 </p>
 
 <p align="center"> 
