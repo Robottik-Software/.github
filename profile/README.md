@@ -3,7 +3,7 @@
 
 <a  href=""  rel="noopener">
 
-<h3 align="center"><img width=200px  height=200px  src="https://robottik.com//resources/images/logo.png"  alt="Project logo"></a></h3>
+<h3 align="center"><img width=200px  height=200px  src="https://robottik.com/resources/images/logos/White/main.png"  alt="Project logo"></a></h3>
 
 </p>
 
